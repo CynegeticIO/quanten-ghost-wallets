@@ -10,11 +10,11 @@ https://www.patreon.com/QuantenGhost
 https://buymeacoff.ee/QuantenGhost
 
 # Crypto Currency Wallets Recieving Donations
-`BTC:  3PSa5wE9DEqmqZ9r6WSvZGGR5a9jRj1gkY`
+BTC:  `3PSa5wE9DEqmqZ9r6WSvZGGR5a9jRj1gkY`
 
-`BCH:  1PyBPrVYdciLB1PonCvJS46vk9noLqiyaF`
+BCH:  `1PyBPrVYdciLB1PonCvJS46vk9noLqiyaF`
 
-`ETH:  0x4d523e45Cf7D2Ed7DDA379E3253e36dE1D171EeF`
+ETH:  `0x4d523e45Cf7D2Ed7DDA379E3253e36dE1D171EeF`
 
 ## Bitcoin
 Bitcoin is a secure and anonymous digital currency. Bitcoins cannot be easily tracked back to you, and are safer and faster alternative to other donation methods. You can send BTC to the following address:
